@@ -1,4 +1,5 @@
 import soup_redfin
+from personal.config import url
 
 listing = soup_redfin.url_to_listing(url)
 

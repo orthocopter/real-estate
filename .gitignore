@@ -8,3 +8,6 @@
 
 # Temporary files
 *.pyc
+
+# User files
+personal/
