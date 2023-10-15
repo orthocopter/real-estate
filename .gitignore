@@ -1,0 +1,7 @@
+# Virtual environment. Use the following commands to recreate:
+#   python -m venv .venv
+#   pip install -r requirements.txt
+.venv/
+
+# Temporary files
+*.pyc
